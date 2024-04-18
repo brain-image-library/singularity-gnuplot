@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/brain-image-library/singularity-gnuplot)
 
 # singularity-gnuplot
-![Plot](http://gnuplot.sourceforge.net/demo/animate2.1.gif)
+![Plot](https://gnuplot.sourceforge.net/demo/lnGamma.1.png)
 
 Singularity recipe for [gnuplot](http://gnuplot.info/).
 
